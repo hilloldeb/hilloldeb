@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hilloldeb
-- 👀 I’m interested in web development, ux/ui development
-- 🌱 I’m currently learning computer engineering.
+- 👀 I’m interested in web development, UX/UI development
+- 🌱 computer engineer.
 - 💞️ I’m looking to collaborate on web designing,
 - 📫 How to reach me ...
 
