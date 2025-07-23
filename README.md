@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - 👨‍💻 Currently working on: **30 Days JavaScript Challenge**
-- 🌱 Learning: **React**, **TypeScript**, and **Git best practices**
+- 🌱 Learning: **Angular**, **TypeScript**, and **Git best practices**
 - 🎯 Goal: Build real-world projects
 - 💬 Ask me about: HTML, CSS, JavaScript, or getting started with GitHub
 
